@@ -1,0 +1,1 @@
+# mcp_jobapplication_automator
